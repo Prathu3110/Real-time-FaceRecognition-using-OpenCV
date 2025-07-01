@@ -21,7 +21,9 @@ Note: For GPU acceleration with dlib (used by face_recognition), CUDA support mu
 
 
 project-folder/
-│
-├── faces/                 # Folder containing reference face images (e.g., person1.jpg, person2.jpg)
+
+├── faces/  # Folder containing reference face images (e.g., person1.jpg, person2.jpg)
+
 ├── face_recognition_app.py  # Main script
+
 ├── README.md
