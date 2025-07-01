@@ -1,4 +1,4 @@
-# Real-time-Facerecogniton-using-OpenCV
+# Real-time-FaceRecognition-using-OpenCV
 Real-Time Face Recognition Using OpenCV and face_recognition
 
 # Real-Time Face Recognition Using OpenCV and face_recognition
